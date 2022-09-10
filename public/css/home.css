@@ -1,0 +1,13 @@
+* {
+    font-family: Roboto;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #003d7a;
+}
+
+.nav-pills .nav-link i {
+    margin-right: 10px;
+}
